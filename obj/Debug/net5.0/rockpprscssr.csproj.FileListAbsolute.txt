@@ -1,0 +1,15 @@
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/bin/Debug/net5.0/rockpprscssr.deps.json
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/bin/Debug/net5.0/rockpprscssr.runtimeconfig.json
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/bin/Debug/net5.0/rockpprscssr.runtimeconfig.dev.json
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/bin/Debug/net5.0/rockpprscssr.dll
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/bin/Debug/net5.0/ref/rockpprscssr.dll
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/bin/Debug/net5.0/rockpprscssr.pdb
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/obj/Debug/net5.0/rockpprscssr.csprojAssemblyReference.cache
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/obj/Debug/net5.0/rockpprscssr.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/obj/Debug/net5.0/rockpprscssr.AssemblyInfoInputs.cache
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/obj/Debug/net5.0/rockpprscssr.AssemblyInfo.cs
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/obj/Debug/net5.0/rockpprscssr.csproj.CoreCompileInputs.cache
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/obj/Debug/net5.0/rockpprscssr.dll
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/obj/Debug/net5.0/ref/rockpprscssr.dll
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/obj/Debug/net5.0/rockpprscssr.pdb
+/Users/davidparker/Documents/source/codeworks/rockpprscssr/obj/Debug/net5.0/rockpprscssr.genruntimeconfig.cache
